@@ -1,0 +1,20 @@
+.wrapper{
+    margin-top: 20px;
+    border: 2px solid blue;
+    width: 500px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.divider{
+    width:58%;
+    height:auto;
+    display:inline-block;
+}
+
+.err{
+    color: red;
+    padding: 0 5px;
+    font-size: 14px;
+
+}

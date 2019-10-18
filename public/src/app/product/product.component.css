@@ -1,0 +1,13 @@
+.wrapper{
+    margin-top: 20px;
+    border: 2px solid blue;
+    width: 500px;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+.divider{
+    width:58%;
+    height:auto;
+    display:inline-block;
+}
